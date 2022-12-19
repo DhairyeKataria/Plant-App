@@ -169,8 +169,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             AuthenticationButton(
                               label: 'Log In',
                               onPressed: () {
-                                if (username.toLowerCase() ==
-                                        'dhairyekataria' &&
+                                if (username.toLowerCase() == 'admin' &&
                                     password == 'idk123!') {
                                   Navigator.pushNamed(context, MainScreen.id);
                                 }
