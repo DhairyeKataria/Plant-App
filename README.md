@@ -32,4 +32,4 @@ A Flutter UI to browse and order plants from a nursery.
 | [**cupertino_icons**](https://pub.dev/packages/cupertino_icons)           | Icons for IOS.                                        |
 | [**google_fonts**](https://pub.dev/packages/google_fonts)                 | A Flutter package to use fonts from fonts.google.com. |
 | [**font_awesome_flutter**](https://pub.dev/packages/font_awesome_flutter) | The free Font Awesome Icon pack available as set of   |
-|                                                                           | Flutter Icons.                                        |
+|                                                                             Flutter Icons.                                        |
